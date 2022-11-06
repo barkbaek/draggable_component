@@ -1,0 +1,7 @@
+.box {
+    background: darkgreen;
+    color: white;
+    cursor: pointer;
+    width:100px;
+    height:100px;
+}
